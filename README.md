@@ -1,1 +1,1 @@
-# ocr-
+# ocr com opencv e tesseract
